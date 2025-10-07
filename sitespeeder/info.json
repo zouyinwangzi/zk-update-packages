@@ -2,7 +2,7 @@
     "name": "SiteSpeeder",
     "slug": "sitespeeder",
     "homepage": "#",
-    "download_url": "https://www.tech.com/update-package/sitespeeder/sitespeeder.zip",
+    "download_url": "https://github.com/zouyinwangzi/zk-update-packages/sitespeeder/sitespeeder.zip",
     "version": "1.1",
     "requires": "5.9",
     "tested": "6.8.2",
@@ -17,12 +17,12 @@
         "custom_section": "This is a custom section labeled 'Custom Section'."
     },
     "icons": {
-        "1x": "https://www.tech.com/update-package/sitespeeder/icon-128x128.png",
-        "2x": "https://www.tech.com/update-package/sitespeeder/icon-256x256.png"
+        "1x": "https://github.com/zouyinwangzi/zk-update-packages/sitespeeder/icon-128x128.png",
+        "2x": "https://github.com/zouyinwangzi/zk-update-packages/sitespeeder/icon-256x256.png"
     },
     "banners": {
-        "low": "https://www.tech.com/update-package/sitespeeder/banner-772x250.png",
-        "high": "https://www.tech.com/update-package/sitespeeder/banner-1544x500.png"
+        "low": "https://github.com/zouyinwangzi/zk-update-packages/sitespeeder/banner-772x250.png",
+        "high": "https://github.com/zouyinwangzi/zk-update-packages/sitespeeder/banner-1544x500.png"
     },
     "rating": 90,
     "num_ratings": 123,
