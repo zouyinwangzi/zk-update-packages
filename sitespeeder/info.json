@@ -1,0 +1,31 @@
+{
+    "name": "SiteSpeeder",
+    "slug": "sitespeeder",
+    "homepage": "#",
+    "download_url": "https://www.tech.com/update-package/sitespeeder/sitespeeder.zip",
+    "version": "1.1",
+    "requires": "5.9",
+    "tested": "6.8.2",
+    "last_updated": "2025-10-07 17:10:00",
+    "upgrade_notice": "Re-release the version, optimize the code structure, and fix known bugs.",
+    "author": "Spider",
+    "author_homepage": "#",
+    "sections": {
+        "description": "make site pagespeed higher",
+        "installation": "install plugin and activate it",
+        "changelog": "version logs<ul><li>1.0 version init</li></ul>",
+        "custom_section": "This is a custom section labeled 'Custom Section'."
+    },
+    "icons": {
+        "1x": "https://www.tech.com/update-package/sitespeeder/icon-128x128.png",
+        "2x": "https://www.tech.com/update-package/sitespeeder/icon-256x256.png"
+    },
+    "banners": {
+        "low": "https://www.tech.com/update-package/sitespeeder/banner-772x250.png",
+        "high": "https://www.tech.com/update-package/sitespeeder/banner-1544x500.png"
+    },
+    "rating": 90,
+    "num_ratings": 123,
+    "downloaded": 1234,
+    "active_installs": 12345
+}
